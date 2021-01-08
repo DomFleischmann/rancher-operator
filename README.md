@@ -1,7 +1,7 @@
 # Rancher Operator **WORK IN PROGRESS**
 
 This is the result of an initial spike to test the viability of a Charm for Rancher.
-*****The current charm does not work correctly**. It is able to deploy the rancher service
+**The current charm does not work correctly**. It is able to deploy the rancher service
 but fails during deployment. Nevertheless the other Rancher resources are deployed
 successfully.
 
