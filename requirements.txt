@@ -1,0 +1,2 @@
+ops
+git+https://github.com/juju-solutions/resource-oci-image/@25b480913c250b07be2821c05fd47e324ff75ae8#egg=oci-image
